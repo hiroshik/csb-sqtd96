@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://hiroshik.github.io/csb-sqtd96/static/css/main.3abdbe5c.chunk.css",
-    "main.js": "https://hiroshik.github.io/csb-sqtd96/static/js/main.09292ab1.chunk.js",
-    "main.js.map": "https://hiroshik.github.io/csb-sqtd96/static/js/main.09292ab1.chunk.js.map",
+    "main.js": "https://hiroshik.github.io/csb-sqtd96/static/js/main.40aef8dd.chunk.js",
+    "main.js.map": "https://hiroshik.github.io/csb-sqtd96/static/js/main.40aef8dd.chunk.js.map",
     "runtime-main.js": "https://hiroshik.github.io/csb-sqtd96/static/js/runtime-main.91d11f86.js",
     "runtime-main.js.map": "https://hiroshik.github.io/csb-sqtd96/static/js/runtime-main.91d11f86.js.map",
     "static/js/2.290f529c.chunk.js": "https://hiroshik.github.io/csb-sqtd96/static/js/2.290f529c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.91d11f86.js",
     "static/js/2.290f529c.chunk.js",
     "static/css/main.3abdbe5c.chunk.css",
-    "static/js/main.09292ab1.chunk.js"
+    "static/js/main.40aef8dd.chunk.js"
   ]
 }
